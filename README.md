@@ -1,6 +1,7 @@
 # basic-java-assignments
 
-I Have included my answers as a java file in this repository
+I Have included my answers as a java file in this repository.
+
 Assignment 0: 
 
 1. Create a class called 'School'. 
